@@ -9,3 +9,5 @@ The goal of the blog post and this code is 3 fold:
 1. Learn the components & flow of the FedML MLOps federated machine learning solution
 1. Have FedML up and running
 1. Train the demo model on your edge silo devices
+
+By: Al Nevarez, Director of Product Management, FedML
